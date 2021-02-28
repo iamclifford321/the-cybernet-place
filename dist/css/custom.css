@@ -1,0 +1,21 @@
+div.login-msg{
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+div.errorLogin{
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+input.errorInputs{
+    border-color :#fb8792 !important;
+}
+i.dueDateClass{
+    color: #e63142 !important;
+  }
+i.stillClass{
+  color: #0af342;
+}
