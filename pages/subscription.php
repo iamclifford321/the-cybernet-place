@@ -20,10 +20,10 @@
 
             <div class="col-12">
                 <div class="card">
-                <div class="card-header">
-                    <!-- <h3 class="card-title">DataTable with minimal features & hover style</h3> -->
-                    <div class="float-right"><button class="btn btn-primary newCustomer-btn" data-toggle="modal" data-target="#newSubs">New</button></div>
-                </div>
+                  <div class="card-header">
+                      <!-- <h3 class="card-title">DataTable with minimal features & hover style</h3> -->
+                      <div class="float-right"><button class="btn btn-primary newCustomer-btn" data-toggle="modal" data-target="#newSubs">New</button></div>
+                  </div>
                 <!-- /.card-header -->
                     <div class="card-body">
                         <table id="tableSubs" class="table table-bordered table-hover">
